@@ -1,4 +1,4 @@
-Project Objective
+Project Objective : 
 The goal of this project is to predict which customers are likely to leave the
 telecommunications company using historical data. By accurately predicting churn, the
 company can implement targeted retention strategies to reduce customer attrition.
